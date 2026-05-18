@@ -38,4 +38,3 @@ Một số trang web tĩnh để luyện kỹ năng giao diện:
 
 ---
 
-*"Đơn giản, tối ưu — mỗi thứ tồn tại đều có lý do."*

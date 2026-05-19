@@ -18,7 +18,7 @@ Không phải dân code thuần — nhưng có tư duy hệ thống, thích sả
 
 ## 🚀 Projects
 
-### 🛒 [Gundam Store](https://github.com/[username]/gundam-store)
+### 🛒 [Gundam Store](https://github.com/MTrieuH/m-shop)
 Website thương mại điện tử bán mô hình Gundam — full-stack với sự hỗ trợ của AI.  
 Gồm giao diện người dùng, dashboard quản lý admin/staff, hệ thống phân quyền và luồng đặt hàng.  
 **Tech:** React · Node.js · SQL Server · REST API
@@ -27,7 +27,6 @@ Gồm giao diện người dùng, dashboard quản lý admin/staff, hệ thống
 Một số trang web tĩnh để luyện kỹ năng giao diện:
 - 🎬 Trang phim
 - 📝 Trang ghi chú  
-- 🏮 Trang đèn lồng  
 **Tech:** HTML · CSS · JavaScript
 
 ---

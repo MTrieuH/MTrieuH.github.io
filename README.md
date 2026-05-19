@@ -25,8 +25,8 @@ Gồm giao diện người dùng, dashboard quản lý admin/staff, hệ thống
 
 ### 🌐 Các project web nhỏ
 Một số trang web tĩnh để luyện kỹ năng giao diện:
-- 🎬 Trang phim
-- 📝 Trang ghi chú  
+- 🎬 [Trang phim](https://basicmovieweb.netlify.app/)
+- 📝 Trang ghi chú
 **Tech:** HTML · CSS · JavaScript
 
 ---
